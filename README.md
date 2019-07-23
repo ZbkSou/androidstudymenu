@@ -14,3 +14,5 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 [Android中的View动画和属性动画](https://www.jianshu.com/p/b117c974deaf)
 
 [HenCoder 自定义绘制的第 1-6 期：属性动画 Property Animation（上手篇）](https://hencoder.com/ui-1-6/)
+
+[layoutAnimation](https://www.jianshu.com/p/5d811aaf4541)
