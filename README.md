@@ -16,3 +16,9 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 [HenCoder 自定义绘制的第 1-6 期：属性动画 Property Animation（上手篇）](https://hencoder.com/ui-1-6/)
 
 [layoutAnimation](https://www.jianshu.com/p/5d811aaf4541)
+
+[RecyclerView 与 LayoutAnimation 实现的进入动画](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0807/8348.html)
+
+[gestruedector](https://www.gcssloop.com/customview/gestruedector)
+
+## 网络
