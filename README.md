@@ -22,3 +22,5 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 [gestruedector](https://www.gcssloop.com/customview/gestruedector)
 
 ## 网络
+
+[HTTP 必知必会的那些](https://mp.weixin.qq.com/s/Fazx13maQfPJItfkOqk9FQ)
