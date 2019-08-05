@@ -27,3 +27,6 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 [手把手教你写 Socket 长连接](https://mp.weixin.qq.com/s/035SiIDhmbHzbtI1fF4h1g)
 
 [OkHttp相关](https://juejin.im/post/5d450c3e6fb9a06af92b863e#heading-13)
+
+## 图片
+[Android中Bitmap内存优化](https://www.jianshu.com/p/3f6f6e4f1c88)
