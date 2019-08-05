@@ -24,3 +24,6 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 ## 网络
 
 [HTTP 必知必会的那些](https://mp.weixin.qq.com/s/Fazx13maQfPJItfkOqk9FQ)
+[手把手教你写 Socket 长连接](https://mp.weixin.qq.com/s/035SiIDhmbHzbtI1fF4h1g)
+
+[OkHttp相关](https://juejin.im/post/5d450c3e6fb9a06af92b863e#heading-13)
