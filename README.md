@@ -31,3 +31,7 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 ## 图片
 [Android中Bitmap内存优化](https://www.jianshu.com/p/3f6f6e4f1c88)
 [Android drawable微技巧，你所不知道的drawable的那些细节](https://blog.csdn.net/guolin_blog/article/details/50727753)
+
+## hander
+[使用](https://www.jianshu.com/p/69b550cb7d43)
+[Android Handler详解](https://www.jianshu.com/p/3855e0aa7900)
