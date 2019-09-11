@@ -36,5 +36,7 @@ Activity启动模式[Activity启动模式](https://blog.csdn.net/mynameishuangsh
 [使用](https://www.jianshu.com/p/69b550cb7d43)
 [Android Handler详解](https://www.jianshu.com/p/3855e0aa7900)
 
+[原理](https://blog.csdn.net/wanghao200906/article/details/51355018)
+
 ## 线程
 [Android 线程和线程池一篇就够了](https://juejin.im/entry/593109e72f301e005830cd76)
